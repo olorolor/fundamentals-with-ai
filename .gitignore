@@ -1,5 +1,6 @@
 # OS
 .DS_Store
 
-# Runtime data (generated per user)
-data/learner-profile.json
+# Runtime data
+# data/learner-profile.json은 기본 템플릿으로 repo에 포함됨
+# clone 후 사용자별 데이터로 덮어써짐
