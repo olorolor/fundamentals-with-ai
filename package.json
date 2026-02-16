@@ -1,0 +1,40 @@
+{
+  "name": "ai-for-ai",
+  "version": "1.0.0",
+  "description": "AI가 직접 가르치는 AI 교육 프로그램 - Interactive AI tutor for LLM/AI Agent concepts",
+  "type": "module",
+  "bin": {
+    "ai-for-ai": "./dist/index.js"
+  },
+  "files": [
+    "dist/",
+    "content/"
+  ],
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsx src/index.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.5.0"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ai",
+    "education",
+    "llm",
+    "tutor",
+    "claude",
+    "agent-sdk"
+  ],
+  "license": "MIT"
+}
