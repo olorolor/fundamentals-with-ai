@@ -1,0 +1,4 @@
+dist/
+node_modules/
+ai-for-ai-data/
+*.tsbuildinfo
