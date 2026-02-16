@@ -1,0 +1,16 @@
+{
+  "diagnosis_completed": false,
+  "updated_at": null,
+  "profile": {
+    "role": null,
+    "seniority": null,
+    "ai_experience": null,
+    "prior_knowledge": [],
+    "goal": null
+  },
+  "recommendation": {
+    "start_skill": null,
+    "reason": null
+  },
+  "completed_modules": []
+}

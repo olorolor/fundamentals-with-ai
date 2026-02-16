@@ -67,7 +67,8 @@ description: 진단 대화 시작점. 학습자의 직무/경력/AI 경험/사�
 
 ## 저장 스키마
 
-진단 완료 시 `data/learner-profile.json`을 다음 필드로 갱신한다.
+진단 완료 시 `data/learner-profile.template.json`을 `data/learner-profile.json`으로 복사한 뒤 결과를 갱신한다.
+(이미 `learner-profile.json`이 있으면 복사 없이 갱신만 한다.)
 
 - `diagnosis_completed`
 - `updated_at`

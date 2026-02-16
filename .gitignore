@@ -2,4 +2,4 @@
 .DS_Store
 
 # Runtime data (generated per user)
-data/
+data/learner-profile.json
