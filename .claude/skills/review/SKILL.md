@@ -15,7 +15,7 @@ description: module1~6 학습 내용을 복습하고 개념 연결성, 적용 �
 
 ## 진행 순서
 
-1. 학습 이력 확인 (`data/learner-profile.json` 참고)
+1. 학습 이력 확인 (모듈 완료 시 저장된 `data/learner-profile.json` 참고)
 2. 모듈별 핵심 질문 1개씩 빠른 점검
 3. 오답/불명확 항목 재설명
 4. 2주 실행 계획 제안
