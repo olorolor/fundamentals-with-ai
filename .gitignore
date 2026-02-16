@@ -1,4 +1,5 @@
 dist/
 node_modules/
 ai-for-ai-data/
+data/learner-profile.json
 *.tsbuildinfo
