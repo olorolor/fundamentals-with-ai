@@ -1,5 +1,5 @@
-dist/
-node_modules/
-ai-for-ai-data/
-data/learner-profile.json
-*.tsbuildinfo
+# OS
+.DS_Store
+
+# Runtime data (generated per user)
+data/
