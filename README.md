@@ -40,10 +40,8 @@
 아래 한 줄을 터미널에 붙여넣으세요:
 
 ```bash
-git clone https://github.com/olorolor/fundamentals-with-ai.git && cd fundamentals-with-ai && claude
+npx skills add olorolor/fundamentals-with-ai --yes && claude /start
 ```
-
-Claude Code가 열리면 `/start`를 입력하면 교육이 시작됩니다.
 
 **사전 요구사항**: [Claude Code](https://docs.anthropic.com/en/docs/claude-code/overview) 설치 필요
 
